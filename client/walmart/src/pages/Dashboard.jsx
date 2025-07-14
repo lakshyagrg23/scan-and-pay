@@ -54,7 +54,7 @@ export default function ScanGoDashboard() {
                 <ShoppingCart className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-white">Scan & Go</h1>
+                <h1 className="text-2xl font-bold text-white">Scan & Pay</h1>
                 <p className="text-blue-100 text-sm">Welcome back, Shopper!</p>
               </div>
             </div>
